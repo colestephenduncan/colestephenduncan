@@ -1,18 +1,35 @@
-### Hi there 👋, my name is Cole
-#### I am a mathematician and software developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## Hi there 👋, I'm Cole  
+### Mathematician and Software Developer  
 
-Skills: PYTHON / JS / HTML / CSS
+I created this project just for fun! It helps you generate simple and beautiful GitHub Readme files that you can copy and use on your profile.  
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Divide and Conquer Algorithms 
-- 💬 Ask me about Anything Music related 
-- 📫 How to reach me: colestephenduncan@gmail.com 
-- ⚡ Fun fact: currently watching Breaking Bad 
+---
 
+### Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/colestephenduncan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/colestephenduncan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/coleduncan_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@Mixedbycole)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://colestephenduncan.github.io/WebProjectOne/)  
+---
 
+- 🔭 I’m currently working on Web Development  
+- 🌱 I’m currently learning Divide and Conquer Algorithms  
+- 💬 Ask me about Anything Music related  
+- 📫 How to reach me: colestephenduncan@gmail.com  
+- ⚡ Fun fact: Currently watching *Breaking Bad*  
 
+---
 
-![Profile Image](https://i.imgur.com/CkVPs4t.png)
+### Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colestephenduncan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colestephenduncan/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coleduncan_/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@Mixedbycole)  
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colestephenduncan.github.io/WebProjectOne/)  
+
+---
+
+<img src="https://i.imgur.com/CkVPs4t.png" alt="Profile Image" width="200"/>
+
