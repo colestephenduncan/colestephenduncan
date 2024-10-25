@@ -34,6 +34,5 @@ I created this project just for fun! It helps you generate simple and beautiful 
 
 ---
 ### Me in middle with puppy Thor  
-⬇️⬇️⬇️
 <img src="https://i.imgur.com/Ty7R51e.jpeg" alt="Profile Image" width="200"/>
 
