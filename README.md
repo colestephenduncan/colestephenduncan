@@ -29,7 +29,7 @@
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colestephenduncan.github.io/PhotographyWebsite/)  
 
 ---
-### Me in middle with puppy Thor  
+### Me in middle
 <img src="https://i.imgur.com/Ty7R51e.jpeg" alt="Profile Image" width="200"/>
 
 
