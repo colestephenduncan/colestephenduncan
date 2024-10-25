@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Cole  
 ### Mathematician and Software Developer  
+---
+### Me in middle with puppy Thor  
+<img src="https://i.imgur.com/Ty7R51e.jpeg" alt="Profile Image" width="200"/>
 
 ---
 
