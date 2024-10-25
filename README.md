@@ -10,6 +10,9 @@ I created this project just for fun! It helps you generate simple and beautiful 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge&logo=Mathworks&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white) 
 
 ---
 
@@ -30,6 +33,7 @@ I created this project just for fun! It helps you generate simple and beautiful 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colestephenduncan.github.io/WebProjectOne/)  
 
 ---
-
-<img src="https://i.imgur.com/CkVPs4t.png" alt="Profile Image" width="200"/>
+### Me in middle with puppy Thor  
+⬇️⬇️⬇️
+<img src="https://i.imgur.com/Ty7R51e.jpeg" alt="Profile Image" width="200"/>
 
