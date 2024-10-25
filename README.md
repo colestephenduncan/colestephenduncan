@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm Cole  
 ### Mathematician and Software Developer  
 
-I created this project just for fun! It helps you generate simple and beautiful GitHub Readme files that you can copy and use on your profile.  
-
 ---
 
 ### Skills  
