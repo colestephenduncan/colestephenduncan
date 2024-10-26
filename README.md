@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Cole  
+## Cole Duncan  
 ### Mathematician and Software Developer  
 ---
 
