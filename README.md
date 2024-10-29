@@ -1,4 +1,4 @@
-## Cole Duncan  
+# Cole Duncan  
 ### Mathematician | Software Developer  
 
 ---
@@ -14,10 +14,19 @@
 
 ---
 
-🔭 **Currently Working On:** Web Development  
-🌱 **Currently Learning:** Divide and Conquer Algorithms  
-💬 **Ask Me About:** Anything math!  
-📫 **Contact:** colestephenduncan@gmail.com  
+<table>
+  <tr>
+    <td>
+      🔭 <b>Currently Working On:</b> Web Development <br>
+      🌱 <b>Currently Learning:</b> Divide and Conquer Algorithms <br>
+      💬 <b>Ask Me About:</b> Anything math! <br>
+      📫 <b>Contact:</b> colestephenduncan@gmail.com
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN6aGphMHVveGpwdmFkenIwbjRhazQxMWR5dmRtZzVwa3QzYXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" width="100">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,4 +34,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colestephenduncan) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colestephenduncan/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coleduncan_/) 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colestephenduncan.github.io/PhotographyWebsite/)  
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colestephenduncan.github.io/PhotographyWebsite/)
