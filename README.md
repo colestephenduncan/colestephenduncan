@@ -32,7 +32,7 @@
       📫 <b>Contact:</b> colestephenduncan@gmail.com
     </td>
     <td>
-      <img>
+      <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl5cnhyZTZmejF6dHoycWRnajE4dHZ1cGhrN3dpbGhvMm54bjRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7izvpUrQVlUVG/giphy.webp>
     </td>
   </tr>
 </table>
