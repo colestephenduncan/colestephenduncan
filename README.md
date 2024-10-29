@@ -5,7 +5,7 @@
       <h3>Mathematician | Software Developer</h3>
     </td>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl2a3NqeHY3ZXFhZmZzcWtpdWNya2MxamZ1Y2s0ejJoMDhlaTdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFGW9xik06wtG/giphy.webp" width="100">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN6aGphMHVveGpwdmFkenIwbjRhazQxMWR5dmRtZzVwa3QzYXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" width="100">
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
       📫 <b>Contact:</b> colestephenduncan@gmail.com
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN6aGphMHVveGpwdmFkenIwbjRhazQxMWR5dmRtZzVwa3QzYXU2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" width="100">
+      <img>
     </td>
   </tr>
 </table>
