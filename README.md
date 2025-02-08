@@ -30,9 +30,5 @@
       </a>
     </td>
     <td>
-      <a href="https://colestephenduncan.github.io/PhotographyWebsite/">
-        <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-      </a>
-    </td>
   </tr>
 </table>
