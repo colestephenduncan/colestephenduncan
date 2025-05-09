@@ -16,7 +16,7 @@
   <tr>
     <td>
       <a href="https://discord.com/users/454013714958647306">
-        <img src="https://img.shields.io/badge/Discord-cole.duncan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
       </a>
     </td>
     <td>
